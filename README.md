@@ -58,7 +58,8 @@ Untuk mengambil karakter terakhir, gunakan **index [-1]**. Sedangkan untuk menga
       
 #### Output Latihan 1
 
-![Run lat 1](https://user-images.githubusercontent.com/115677839/209825153-fc75ee75-a35f-41bf-9380-a3efa678f7b0.png)
+<img width="763" alt="lat1" src="https://user-images.githubusercontent.com/118233561/212894969-565ac741-9950-49b4-90dd-e4526fd16d52.png">
+
 
 ### Latihan 2
 
@@ -74,8 +75,6 @@ Untuk memasukkan variable ke dalam string, tambahkan kurung kurawal `{}` untuk m
       
 #### Output Latihan 2
 
-![Run lat 2](https://user-images.githubusercontent.com/115677839/209825193-f9001bb2-21f9-41ff-85cb-640b1f96a1f0.png)
+<img width="761" alt="lat 2" src="https://user-images.githubusercontent.com/118233561/212895010-1e2f3688-57d3-4320-80a9-dd522cf6141c.png">
 
 
-
-## Terima Kasih :)
